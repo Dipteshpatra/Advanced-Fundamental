@@ -1,0 +1,8 @@
+C:\Projects\advance c shrap\advance c shrap\bin\Debug\advance c shrap.exe.config
+C:\Projects\advance c shrap\advance c shrap\bin\Debug\advance c shrap.exe
+C:\Projects\advance c shrap\advance c shrap\bin\Debug\advance c shrap.pdb
+C:\Projects\advance c shrap\advance c shrap\obj\Debug\advance c shrap.csproj.AssemblyReference.cache
+C:\Projects\advance c shrap\advance c shrap\obj\Debug\advance c shrap.csproj.SuggestedBindingRedirects.cache
+C:\Projects\advance c shrap\advance c shrap\obj\Debug\advance c shrap.csproj.CoreCompileInputs.cache
+C:\Projects\advance c shrap\advance c shrap\obj\Debug\advance c shrap.exe
+C:\Projects\advance c shrap\advance c shrap\obj\Debug\advance c shrap.pdb

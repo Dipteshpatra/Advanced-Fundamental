@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static non static fun", "advance c shrap\static non static fun.csproj", "{924BC535-1A1C-489B-BCC1-34413374B9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "call by value and ref", "call by value and ref\call by value and ref.csproj", "{7B3610B6-545A-480F-BB07-5C396989405B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string overiding", "string overiding\string overiding.csproj", "{C853E61F-C72C-4EE8-A969-A6F4A7F21CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "const readonly stack", "stack and heap memory\const readonly stack.csproj", "{E0781A1E-9813-4369-A697-18CF482A4AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boxing and unboxing", "const and readonly\boxing and unboxing.csproj", "{4EA6DB7D-C979-4152-B7DE-D9F9D383D0D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "covert and to strING", "covert and to strING\covert and to strING.csproj", "{33B77A37-7DE1-4A14-A3FF-72329D24AB09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924BC535-1A1C-489B-BCC1-34413374B9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924BC535-1A1C-489B-BCC1-34413374B9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924BC535-1A1C-489B-BCC1-34413374B9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924BC535-1A1C-489B-BCC1-34413374B9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3610B6-545A-480F-BB07-5C396989405B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3610B6-545A-480F-BB07-5C396989405B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3610B6-545A-480F-BB07-5C396989405B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3610B6-545A-480F-BB07-5C396989405B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C853E61F-C72C-4EE8-A969-A6F4A7F21CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C853E61F-C72C-4EE8-A969-A6F4A7F21CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C853E61F-C72C-4EE8-A969-A6F4A7F21CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C853E61F-C72C-4EE8-A969-A6F4A7F21CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0781A1E-9813-4369-A697-18CF482A4AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0781A1E-9813-4369-A697-18CF482A4AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0781A1E-9813-4369-A697-18CF482A4AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0781A1E-9813-4369-A697-18CF482A4AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA6DB7D-C979-4152-B7DE-D9F9D383D0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA6DB7D-C979-4152-B7DE-D9F9D383D0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA6DB7D-C979-4152-B7DE-D9F9D383D0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA6DB7D-C979-4152-B7DE-D9F9D383D0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B77A37-7DE1-4A14-A3FF-72329D24AB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B77A37-7DE1-4A14-A3FF-72329D24AB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B77A37-7DE1-4A14-A3FF-72329D24AB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B77A37-7DE1-4A14-A3FF-72329D24AB09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2F1DC9-062D-42E7-9ED1-64A7E1C2088F}
+	EndGlobalSection
+EndGlobal

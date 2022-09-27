@@ -1,0 +1,8 @@
+C:\Projects\advance c shrap\const and readonly\bin\Debug\const and readonly.exe.config
+C:\Projects\advance c shrap\const and readonly\bin\Debug\const and readonly.exe
+C:\Projects\advance c shrap\const and readonly\bin\Debug\const and readonly.pdb
+C:\Projects\advance c shrap\const and readonly\obj\Debug\boxing and unboxing.csproj.AssemblyReference.cache
+C:\Projects\advance c shrap\const and readonly\obj\Debug\boxing and unboxing.csproj.SuggestedBindingRedirects.cache
+C:\Projects\advance c shrap\const and readonly\obj\Debug\boxing and unboxing.csproj.CoreCompileInputs.cache
+C:\Projects\advance c shrap\const and readonly\obj\Debug\const and readonly.exe
+C:\Projects\advance c shrap\const and readonly\obj\Debug\const and readonly.pdb

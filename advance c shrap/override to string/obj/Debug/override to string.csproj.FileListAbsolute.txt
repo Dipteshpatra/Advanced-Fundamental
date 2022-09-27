@@ -1,0 +1,8 @@
+C:\Projects\advance c shrap\override to string\bin\Debug\override to string.exe.config
+C:\Projects\advance c shrap\override to string\bin\Debug\override to string.exe
+C:\Projects\advance c shrap\override to string\bin\Debug\override to string.pdb
+C:\Projects\advance c shrap\override to string\obj\Debug\override to string.csproj.AssemblyReference.cache
+C:\Projects\advance c shrap\override to string\obj\Debug\override to string.csproj.SuggestedBindingRedirects.cache
+C:\Projects\advance c shrap\override to string\obj\Debug\override to string.csproj.CoreCompileInputs.cache
+C:\Projects\advance c shrap\override to string\obj\Debug\override to string.exe
+C:\Projects\advance c shrap\override to string\obj\Debug\override to string.pdb

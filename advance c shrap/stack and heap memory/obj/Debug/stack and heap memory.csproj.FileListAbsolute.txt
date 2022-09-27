@@ -1,0 +1,8 @@
+C:\Projects\advance c shrap\stack and heap memory\bin\Debug\stack and heap memory.exe.config
+C:\Projects\advance c shrap\stack and heap memory\bin\Debug\stack and heap memory.exe
+C:\Projects\advance c shrap\stack and heap memory\bin\Debug\stack and heap memory.pdb
+C:\Projects\advance c shrap\stack and heap memory\obj\Debug\stack and heap memory.csproj.AssemblyReference.cache
+C:\Projects\advance c shrap\stack and heap memory\obj\Debug\stack and heap memory.csproj.SuggestedBindingRedirects.cache
+C:\Projects\advance c shrap\stack and heap memory\obj\Debug\stack and heap memory.csproj.CoreCompileInputs.cache
+C:\Projects\advance c shrap\stack and heap memory\obj\Debug\stack and heap memory.exe
+C:\Projects\advance c shrap\stack and heap memory\obj\Debug\stack and heap memory.pdb

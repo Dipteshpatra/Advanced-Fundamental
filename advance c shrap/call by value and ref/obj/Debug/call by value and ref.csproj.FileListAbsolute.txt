@@ -1,0 +1,8 @@
+C:\Projects\advance c shrap\call by value and ref\bin\Debug\call by value and ref.exe.config
+C:\Projects\advance c shrap\call by value and ref\bin\Debug\call by value and ref.exe
+C:\Projects\advance c shrap\call by value and ref\bin\Debug\call by value and ref.pdb
+C:\Projects\advance c shrap\call by value and ref\obj\Debug\call by value and ref.csproj.AssemblyReference.cache
+C:\Projects\advance c shrap\call by value and ref\obj\Debug\call by value and ref.csproj.SuggestedBindingRedirects.cache
+C:\Projects\advance c shrap\call by value and ref\obj\Debug\call by value and ref.csproj.CoreCompileInputs.cache
+C:\Projects\advance c shrap\call by value and ref\obj\Debug\call by value and ref.exe
+C:\Projects\advance c shrap\call by value and ref\obj\Debug\call by value and ref.pdb

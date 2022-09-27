@@ -1,0 +1,8 @@
+C:\Projects\advance c shrap\string overiding\bin\Debug\string overiding.exe.config
+C:\Projects\advance c shrap\string overiding\bin\Debug\string overiding.exe
+C:\Projects\advance c shrap\string overiding\bin\Debug\string overiding.pdb
+C:\Projects\advance c shrap\string overiding\obj\Debug\string overiding.csproj.AssemblyReference.cache
+C:\Projects\advance c shrap\string overiding\obj\Debug\string overiding.csproj.SuggestedBindingRedirects.cache
+C:\Projects\advance c shrap\string overiding\obj\Debug\string overiding.csproj.CoreCompileInputs.cache
+C:\Projects\advance c shrap\string overiding\obj\Debug\string overiding.exe
+C:\Projects\advance c shrap\string overiding\obj\Debug\string overiding.pdb
